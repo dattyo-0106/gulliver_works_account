@@ -24,3 +24,16 @@ deploy_mock:
 	@echo 'Exec cache clear...'
 	@aws cloudfront create-invalidation --distribution-id EUN0T3NS36C1K --paths '/*' --profile fpnet_ghidorah_stg
 
+test
+
+
+test
+
+
+aaa
+
+
+bbb
+
+
+ccc
